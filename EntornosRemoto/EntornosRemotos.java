@@ -8,6 +8,7 @@ public class EntornosRemotos {
     public static void main(String[] args) {
         System.out.println("Esto es una línea de código");
         System.out.println("Esto lo he editado desde carpetaCasa");
+        System.out.println("Esto lo he editado desde carpetaInstituto");
     }
 
 }
